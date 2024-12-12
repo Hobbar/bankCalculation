@@ -1,2 +1,3 @@
 # bankCalculation
- Calculator
+ Calculator for bank
+ 
